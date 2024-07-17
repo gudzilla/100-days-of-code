@@ -3,6 +3,7 @@ Me Learning Frontend #100DaysOfCodeChallenge
 
 | Day | Date | Studied | Practiced | Time |
 | --- | --- | --- | --- | ---- |
+| 8 | Jul 16 | useReducer from react.dev / started Redux | useContext and useReducer | 5h |
 | 7 | Jul 15 | New hook: useReducer | - | 2h |
 | 6 |Jul 14 | useContext on [react.dev](https://react.dev/reference/react/useContext) |  | 2h |
 | 5 | Jul 12 | React hook: useContext | Finished adding TypeScript to todoApp - [branch](https://github.com/gudzilla/ts-todoApp/tree/feature/ts-implementation) / Code-along practice with useContext hook - [YouTube](https://www.youtube.com/watch?v=HYKDUF8X3qI&t=531s) | 5h |
