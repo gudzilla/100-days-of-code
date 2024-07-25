@@ -3,6 +3,7 @@ Me Learning Frontend #100DaysOfCodeChallenge
 
 | Day | Date | Studied | Practiced | Time |
 | --- | --- | --- | --- | ---- |
+| 11 | Jul 25 |  | Process of implementing states with Redux in ts-todoApp [feature/state-with-redux](https://github.com/gudzilla/ts-todoApp/tree/feature/state-with-redux) | 6h |
 | 10 | Jul 24 | [Part 3: Basic Redux Data Flow](https://redux.js.org/tutorials/essentials/part-3-data-flow) | Start implementin Redux into my Todo App | 5h |
 | 9 | Jul 23 | Redux with toolkit tutorial on [Official Doc](https://redux.js.org/tutorials/essentials/part-2-app-structure) | Example form YouTube | 6h |
 | 8 | Jul 16 | useReducer from react.dev / started Redux | useContext and useReducer | 5h |
