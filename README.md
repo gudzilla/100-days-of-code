@@ -3,6 +3,7 @@ Me Learning Frontend #100DaysOfCodeChallenge
 
 | Day | Date | Studied | Practiced | Time |
 | --- | --- | --- | --- | ---- |
+| 14 | Aug 1 | Watching Junior Frontend Mock Interview |  | 1h |
 | 13 | Jul 27 |  | Done with [feature/state-with-redux](https://github.com/gudzilla/ts-todoApp/tree/feature/state-with-redux). Will make a PR | 2h |
 | 12 | Jul 26 |  | Continue implementing states with Redux in ts-todoApp [feature/state-with-redux](https://github.com/gudzilla/ts-todoApp/tree/feature/state-with-redux) | 1h |
 | 11 | Jul 25 |  | Process of implementing states with Redux in ts-todoApp [feature/state-with-redux](https://github.com/gudzilla/ts-todoApp/tree/feature/state-with-redux) | 6h |
