@@ -3,6 +3,7 @@ Me Learning Frontend #100DaysOfCodeChallenge
 
 | Day | Date | Studied | Practiced | Time |
 | --- | --- | --- | --- | ---- |
+| 16 | Aug 5 | --- | Started a Task from Mock-Interview | 3h |
 | 15 | Aug 2 | Finished watching Mock Interview for Frontend | Created PR to put Redux State in main branch | 4h |
 | 14 | Aug 1 | Watching Junior Frontend Mock Interview |  | 1h |
 | 13 | Jul 27 |  | Done with [feature/state-with-redux](https://github.com/gudzilla/ts-todoApp/tree/feature/state-with-redux). Will make a PR | 2h |
