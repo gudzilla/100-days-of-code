@@ -3,6 +3,7 @@ Me Learning Frontend #100DaysOfCodeChallenge
 
 | Day | Date | Studied | Practiced | Time |
 | - | - | - | - | - |
+| 18 | Oct 2 | Templating with NodeJS Express + EJS | Created basic Express server with GET requests | 5h |
 | 17 | Oct 1 | Node JS Basics / Starting server with Express | Started server. Trying basic routing and query | 4h |
 | Void | - | - | - | - |
 | 16 | Aug 5 | - | Started a Task from Mock-Interview | 3h |
