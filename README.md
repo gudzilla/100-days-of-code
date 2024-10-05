@@ -3,6 +3,7 @@ Me Learning Frontend #100DaysOfCodeChallenge
 
 | Day | Date | Studied | Practiced | Time |
 | - | - | - | - | - |
+| 19 | Oct 5 | Took Udemy Advanced Javascript Test | Set up repository for experement project with Pinata API | 5h |
 | 18 | Oct 2 | Templating with NodeJS Express + EJS | Created basic Express server with GET requests | 5h |
 | 17 | Oct 1 | Node JS Basics / Starting server with Express | Started server. Trying basic routing and query | 4h |
 | Void | - | - | - | - |
