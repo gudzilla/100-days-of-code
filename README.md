@@ -3,10 +3,13 @@ Me Learning Frontend #100DaysOfCodeChallenge
 
 | Day | Date | Studied | Practiced | Time |
 | - | - | - | - | - |
+| 23 | Nov 3 | Watchin [Hackathon Review part 2](https://www.youtube.com/watch?v=T1JGixhgEEk) | - | 5h |
+| 22 | Nov 2 | Watchin [Hackathon Review part 1](https://www.youtube.com/watch?v=KEflsqVbsEc) | Single event handler function for multiple form input components  | 6h |
+| 21 | Oct 27 | Working with `git` as team, MUI (Material UI) | [Charity React Hackathon](https://github.com/nat-davydova/charity_event_back_oct2024/tree/main) day 2 | 6h |
+| 20 | Oct 26 | Working with `git` as team, MUI (Material UI) | [Charity React Hackathon](https://github.com/nat-davydova/charity_event_back_oct2024/tree/main) day 1 | 8h |
 | 19 | Oct 5 | Took Udemy Advanced Javascript Test | Set up repository for experement project with Pinata API | 5h |
 | 18 | Oct 2 | Templating with NodeJS Express + EJS | Created basic Express server with GET requests | 5h |
 | 17 | Oct 1 | Node JS Basics / Starting server with Express | Started server. Trying basic routing and query | 4h |
-| Void | - | - | - | - |
 | 16 | Aug 5 | - | Started a Task from Mock-Interview | 3h |
 | 15 | Aug 2 | Finished watching Mock Interview for Frontend | Created PR to put Redux State in main branch | 4h |
 | 14 | Aug 1 | Watching Junior Frontend Mock Interview |  | 1h |
