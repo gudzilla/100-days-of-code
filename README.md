@@ -3,6 +3,7 @@ Me Learning Frontend #100DaysOfCodeChallenge
 
 | Day | Date | Studied | Practiced | Time |
 | - | - | - | - | - |
+| 24 | Nov 19 | - | Working on React Routes and Layout for [SPA Help Elderly Project](https://github.com/gudzilla/help-elderly) | 4h |
 | 23 | Nov 3 | Watchin [Hackathon Review part 2](https://www.youtube.com/watch?v=T1JGixhgEEk) | - | 5h |
 | 22 | Nov 2 | Watchin [Hackathon Review part 1](https://www.youtube.com/watch?v=KEflsqVbsEc) | Single event handler function for multiple form input components  | 6h |
 | 21 | Oct 27 | Working with `git` as team, MUI (Material UI) | [Charity React Hackathon](https://github.com/nat-davydova/charity_event_back_oct2024/tree/main) day 2 | 6h |
