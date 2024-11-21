@@ -3,6 +3,7 @@ Me Learning Frontend #100DaysOfCodeChallenge
 
 | Day | Date | Studied | Practiced | Time |
 | - | - | - | - | - |
+| 26 | Nov 21 | Routes with 'react-router-dom' | Header and Footed for `<Layout/>` completed. Set up `routes.tsx`  | 6h |
 | 25 | Nov 20 | - | Worked on Header for **Layout** component | 6h |
 | 24 | Nov 19 | - | Working on React Routes and Layout for [SPA Help Elderly Project](https://github.com/gudzilla/help-elderly) | 4h |
 | 23 | Nov 3 | Watchin [Hackathon Review part 2](https://www.youtube.com/watch?v=T1JGixhgEEk) | - | 5h |
