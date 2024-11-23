@@ -3,6 +3,8 @@ Me Learning Frontend #100DaysOfCodeChallenge
 
 | Day | Date | Studied | Practiced | Time |
 | - | - | - | - | - |
+| 28 | Nov 23 | - | Working on [Login page](https://github.com/gudzilla/help-elderly/tree/feature/login-page) | 4h |
+| 27 | Nov 22 | - | Working on [Login page](https://github.com/gudzilla/help-elderly/tree/feature/login-page) | 6h |
 | 26 | Nov 21 | Routes with 'react-router-dom' | Header and Footed for `<Layout/>` completed. Set up `routes.tsx`  | 6h |
 | 25 | Nov 20 | - | Worked on Header for **Layout** component | 6h |
 | 24 | Nov 19 | - | Working on React Routes and Layout for [SPA Help Elderly Project](https://github.com/gudzilla/help-elderly) | 4h |
